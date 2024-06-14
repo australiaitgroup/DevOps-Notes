@@ -7,7 +7,6 @@ DevOps 项目实战班的笔记。
 - [DevOps，WebApp 和云架构总览](Class-01-Intro.md)
 - [Build and optimise a website with CDN & DNS](Class-02-CDN-DNS.md)
 - [Git 的应用](Class-03-Git.md)
-- [Agile](Class-04-Develop Workflow-Agile.md)
 - [Dockerisation](Class-05-dockerization.md)
 - [CI/CD Overview](Class-06-CICD-Overview.md)
 - [Jenkins CI/CD I](Class-07-Jenkins-CICD-Foundation.md)
