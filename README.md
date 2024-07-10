@@ -23,3 +23,5 @@ DevOps 项目实战班的笔记。
 - [High Availability with AWS](Class-18-High_Availability_with_AWS.md)
 - [Logging](Class-19_Logging.md)
 - [SRE Practice and Incident Management](Class-20-Incident_Management.md)
+
+* [澳洲IT](https:jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
